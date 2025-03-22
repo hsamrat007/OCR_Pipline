@@ -30,7 +30,7 @@ This project uses the following models:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ocr-pipeline.git
+git clone https://github.com/hsam007/ocr-pipeline.git
 cd ocr-pipeline
 
 # Install dependencies
